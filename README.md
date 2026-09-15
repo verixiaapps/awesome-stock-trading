@@ -197,6 +197,8 @@ Joel Greenblatt explains how investors can outperform the popular market average
 Jack Schwager interviews some of the most successful stock traders in the United States. Through these interviews, Schwager offers insight into the strategies, perspectives, and psychological insights of successful traders.
 
 - [Think & Trade Like a Champion](https://www.goodreads.com/book/show/34943907-think-trade-like-a-champion) - Mark Minervini, 2017 </br>
+- [HostDeFi](https://hostdefi.com) - Token-safety scanner and multi-chain DEX front-end: free A+–F risk grades on Solana and 8 EVM chains plus a keyless REST API.
+
 In this book, Mark Minervini explains readers how to apply his methods step by step to enhance their trading performance and create the confidence they need to outperform.
 
 ### Trend Following
